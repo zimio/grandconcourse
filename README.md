@@ -2,6 +2,8 @@
 
 Emacs mode to visualize concourse pipelines.
 
+This project is no longer being maintained.
+
 ## Disclaimer
 
 This program is given freely with no warranties. The only thing I ask is that if you improve this program, please send me back those improvements. I won't promise to merge them into this code base, but being aware of possible improvements can help out a lot.
